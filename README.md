@@ -1,5 +1,11 @@
-## Olá, sou o Rafael Francisco!
-
+## Olá, sou Rafael Francisco!
+<div> 
+ <a href="https://www.instagram.com/rafa_franc21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-444?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rafael.palma.franc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-444?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-444?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+  
 <div >
   <a href="https://github.com/Rafael-Francisco21/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael-Francisco21&theme=dark" />
