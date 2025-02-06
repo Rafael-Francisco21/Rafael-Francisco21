@@ -7,12 +7,8 @@
 </div>
   
 <div >
-  <a href="https://github.com/Rafael-Francisco21/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael-Francisco21&theme=dark" />
-  </a>
-  <a href="https://github.com/Rafael-Francisco21/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Francisco21&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
 </div>
   
   ##
